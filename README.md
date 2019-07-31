@@ -1,1 +1,3 @@
 # Decision-Analytics-Final-Project
+
+This project utilized an employee attrition dataset from Kaggle.  The objective of the project was to use IBM SPSS Modeler to create several models to predict outcomes.  In the project, we created multiple classification models such as Random Trees, C&R Trees and Neural Net to understand the predictors of employee attrition.  One additional step taken was performing an Information Fusion Based Sensitivity Analysis to identify the strongest predictors of attrition given all models.  Given the factors, some solutions were recommended to lower the rate of attrition.  The final grade of the project and course was an A.  
